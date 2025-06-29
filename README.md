@@ -51,7 +51,12 @@ Protected login sessions using PHP sessions.
 # 📸 Screenshots
 
 ![HomePage](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/HomePage.png)
-![Student Dashboard](screenshots/student_dashboard.png)
+![OrganizerRegisteredevent](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/OrganizerRegisteredevent.png)
+![OrganizerSignup](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/OrganizerSignup.png)
+![OrganizerLogin](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/OrganizerLogin.png)
+![UserSignup](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/UserSignup.png)
+![StudentDashboard](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/StudentDashboard.png)
+![UserLogin](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/UserLogin.png)
 
 
 # 👨‍💻 Tech Stack
