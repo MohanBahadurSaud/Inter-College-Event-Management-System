@@ -1,4 +1,4 @@
-🎓 Inter College Event Management System
+#🎓 Inter College Event Management System
 A web-based platform designed to streamline the organization and participation of events across colleges affiliated with a university. This project was developed as part of a minor project for the Bachelor's degree in  BEIT at Everest Engineering College, affiliated with Pokhara University.
 
 
