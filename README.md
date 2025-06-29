@@ -48,6 +48,13 @@ Protected login sessions using PHP sessions.
 6. Session Management ensures secure user access.
 
 
+# 👨‍💻 Tech Stack
+
+**Client:** HTML, CSS and JavaScript <br>
+**Server:** PHP <br>
+**Database:** MySQL
+
+
 # 📸 Screenshots
 
 ![HomePage](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/HomePage.png)
@@ -59,10 +66,6 @@ Protected login sessions using PHP sessions.
 ![UserLogin](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/UserLogin.png)
 
 
-# 👨‍💻 Tech Stack
 
-**Client:** HTML, CSS and JavaScript <br>
-**Server:** PHP <br>
-**Database:** MySQL
 
 
