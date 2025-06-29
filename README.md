@@ -29,23 +29,23 @@ Verification using unique IDs.
 Protected login sessions using PHP sessions.
 
 
-🧠 System Workflow
+# 🧠 System Workflow
 
-1.Admin Login via credentials provided by university.
+1. Admin Login via credentials provided by university.
 
-2.Admin Dashboard to:
+2. Admin Dashboard to:
  Create/update/delete events.
  View participants.
 
-3.Student Sign-up/Login using their university ID.
+3. Student Sign-up/Login using their university ID.
 
-4.Student Dashboard to:
+4. Student Dashboard to:
  View events.
  Register or cancel participation.
 
-5.Database stores all event, user, and participation records.
+5. Database stores all event, user, and participation records.
 
-6.Session Management ensures secure user access.
+6. Session Management ensures secure user access.
 
 
 # Screenshots
