@@ -6,7 +6,7 @@ A web-based platform designed to streamline the organization and participation o
 The Inter College Event Management System is an efficient solution that digitizes and simplifies how colleges manage academic, cultural, and technical events. It centralizes event organization, registration, and participation tracking, improving communication between administrators and students.
 
 ## 🚀 Features
-🔐 User Authentication:
+<h5>🔐 User Authentication:<h5>
 Separate login portals for college admins and students.
 Secure sign-up using registered university ID and passkey.
 
@@ -15,16 +15,16 @@ Create, update, delete, and view events.
 Auto-expiration of past events.
 Event cancellation by organizers or participants.
 
-👥 Participant Management
+<h5>👥 Participant Management:<h5>
 Easy student registration and enrollment tracking.
 View list of registered participants (admin feature).
 Students can cancel enrollment.
 
-📊 Dashboards
-Admin Dashboard: View/manage all events, participants, and event statuses.
-Student Dashboard: Browse and register for available events with real-time status.
+<h5>📊 Dashboards:</h5>
+<h6>Admin Dashboard:</h6> View/manage all events, participants, and event statuses.
+<h6>Student Dashboard:</h6> Browse and register for available events with real-time status.
 
-🔒 Data Security
+<h5>🔒 Data Security</h5>
 Verification using unique IDs.
 Protected login sessions using PHP sessions.
 
