@@ -51,7 +51,7 @@ Protected login sessions using PHP sessions.
 
 # Screenshots
 
-![Login Page](screenshots/login.png)
+![HomePage](https://github.com/MohanBahadurSaud/Inter-College-Event-Management-System/blob/master/images/HomePage.png)
 ![Student Dashboard](screenshots/student_dashboard.png)
 
 
