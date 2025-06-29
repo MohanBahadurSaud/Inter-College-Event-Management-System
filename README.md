@@ -10,7 +10,7 @@ The Inter College Event Management System is an efficient solution that digitize
 Separate login portals for college admins and students.
 Secure sign-up using registered university ID and passkey.
 
- 🗓️ <h3>Event Management</h3>:
+ <h5>🗓️Event Management:</h5>
 Create, update, delete, and view events.
 Auto-expiration of past events.
 Event cancellation by organizers or participants.
