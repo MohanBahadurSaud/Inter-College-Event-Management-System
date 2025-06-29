@@ -31,7 +31,7 @@ Protected login sessions using PHP sessions.
 
 # 🧠 System Workflow
 
-1. Admin Login via credentials provided by university.
+<h6>1. Admin Login via credentials provided by university.</h6>
 
 2. Admin Dashboard to:
  Create/update/delete events.
