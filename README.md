@@ -2,16 +2,15 @@
 A web-based platform designed to streamline the organization and participation of events across colleges affiliated with a university. This project was developed as part of a minor project for the Bachelor's degree in  BEIT at Everest Engineering College, affiliated with Pokhara University.
 
 
-📌 Project Overview
+# 📌 Project Overview
 The Inter College Event Management System is an efficient solution that digitizes and simplifies how colleges manage academic, cultural, and technical events. It centralizes event organization, registration, and participation tracking, improving communication between administrators and students.
 
 🚀 Features
-
 🔐 User Authentication
 Separate login portals for college admins and students.
 Secure sign-up using registered university ID and passkey.
 
-🗓️ Event Management
+ 🗓️ Event Management
 Create, update, delete, and view events.
 Auto-expiration of past events.
 Event cancellation by organizers or participants.
